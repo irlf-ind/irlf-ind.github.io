@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
-<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="167.907" height="197.565" viewBox="0, 0, 167.907, 197.565">
+<svg version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0" y="0" width="167.907" height="195.898" viewBox="0, 0, 167.907, 195.898">
   <defs>
     <pattern id="Pattern_1" patternUnits="userSpaceOnUse" x="29.046" y="316.694" width="40" height="40" patternTransform="matrix(0.5, 0, 0, 0.5, 0, 0)">
       <g transform="translate(-0, -0)">
@@ -16,8 +16,6 @@
   </defs>
   <g id="Layer_1" transform="translate(-24.046, -266.435)">
     <g>
-      <path d="M28.313,400.694 L187.933,400.694 L187.933,464 L28.313,464 L28.313,400.694 z" fill="#000000"/>
-      <path d="M28.187,266.435 L188,266.435 L188,400.694 L28.187,400.694 L28.187,266.435 z" fill="#FFFFFF" fill-opacity="0.604"/>
       <g>
         <path d="M138.953,316.694 C138.953,316.694 187.078,336.299 186.953,356.694 C186.819,378.689 186.953,400.694 186.953,400.694 L29.229,400.694 C29.229,400.694 28.819,392.689 29.229,356.694 C29.482,334.457 78.953,316.694 78.953,316.694 L138.953,316.694 z" fill="url(#Pattern_1)"/>
         <path d="M138.953,316.694 C138.953,316.694 187.078,336.299 186.953,356.694 C186.819,378.689 186.953,400.694 186.953,400.694 L29.229,400.694 C29.229,400.694 28.819,392.689 29.229,356.694 C29.482,334.457 78.953,316.694 78.953,316.694 L138.953,316.694 z" fill-opacity="0" stroke="#000000" stroke-width="2"/>
@@ -26,11 +24,6 @@
         <path d="M108.896,380.76 C105.582,380.76 102.896,378.189 102.896,375.018 C102.896,371.847 105.582,369.276 108.896,369.276 C112.209,369.276 114.896,371.847 114.896,375.018 C114.896,378.189 112.209,380.76 108.896,380.76 z" fill="#FFFFFF"/>
         <path d="M107.396,373.26 L111.396,377.648" fill-opacity="0" stroke="#000000" stroke-width="1"/>
         <path d="M111.396,373.26 L107.396,377.648" fill-opacity="0" stroke="#000000" stroke-width="1"/>
-      </g>
-      <g>
-        <path d="M108.896,399.043 C105.582,399.043 102.896,396.472 102.896,393.301 C102.896,390.13 105.582,387.559 108.896,387.559 C112.209,387.559 114.896,390.13 114.896,393.301 C114.896,396.472 112.209,399.043 108.896,399.043 z" fill="#FFFFFF"/>
-        <path d="M107.396,391.543 L111.396,395.931" fill-opacity="0" stroke="#000000" stroke-width="1"/>
-        <path d="M111.396,391.543 L107.396,395.931" fill-opacity="0" stroke="#000000" stroke-width="1"/>
       </g>
       <g>
         <g>
@@ -62,6 +55,7 @@
           <path d="M120.569,311.173 L120.569,311.173 L120.569,319.284 L120.569,319.284 L120.569,311.173 z" fill-opacity="0" stroke="#000000" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/>
         </g>
       </g>
+      <path d="M28.313,395.431 L187.933,395.431 L187.933,462.333 L28.313,462.333 L28.313,395.431 z" fill="#000000"/>
       <text transform="matrix(1, 0, 0, 1, 107.833, 425.432)">
         <tspan x="-70.203" y="9.461" font-family="PTSans-NarrowBold" font-size="42" fill="#FFFFFF">Irrelefant </tspan>
         <tspan x="-24.605" y="30.961" font-family="PTSans-NarrowBold" font-size="14" fill="#FFFFFF">Industries</tspan>
